@@ -1,3 +1,7 @@
+## [1.0.3](https://github.com/eliseykina-nm/study_2024-2025_os-intro/compare/1.0.2...1.0.3) (2025-03-04)
+
+
+
 ## [1.0.2](https://github.com/eliseykina-nm/study_2024-2025_os-intro/compare/1.0.1...1.0.2) (2025-03-04)
 
 
